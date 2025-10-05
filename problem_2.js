@@ -1,3 +1,4 @@
+// Negative number and positive number take out !!
 let num = -5;
 
     if (num > 0) {

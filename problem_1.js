@@ -1,9 +1,7 @@
-// Maximum take out !!
-let x = 30;
-let y = 20;
-if(x < y){
-    console.log("Max X =");
+let num = 41;
+if (num % 2 == 0){
+    console.log("Number is Even");
 }
 else{
-    console.log("Max Y =");
+    console.log("Number is ODD")
 }
